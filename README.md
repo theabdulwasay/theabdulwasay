@@ -2,16 +2,6 @@
 
 # 👋 Hi, I'm Abdul Wasay
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Data+Science+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Python+Developer;Business+Intelligence+Learner;Always+Building+Amazing+Projects🚀" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=theabdulwasay&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/theabdulwasay?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/theabdulwasay?affiliations=OWNER&style=for-the-badge"/>
-
-</div>
-
 ---
 
 # 💫 About Me
