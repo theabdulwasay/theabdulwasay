@@ -10,18 +10,6 @@
 
 📍 Wah Cantt, Punjab, Pakistan
 
-💻 Full Stack Web Developer
-
-📊 Data Science & Business Intelligence Enthusiast
-
-🤖 Machine Learning Explorer
-
-📈 Passionate about Data Analytics
-
-🌱 Currently learning Cloud Technologies, AI, and Advanced Data Engineering
-
-🎯 Goal: Become a Professional Data Scientist & AI Engineer
-
 ⚡ Fun Fact: I love transforming ideas into real-world software solutions.
 
 ---
