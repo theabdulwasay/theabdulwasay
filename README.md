@@ -1,29 +1,50 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdul+Wasay;Data+Science+%26+ML+Enthusiast;Full-Stack+Developer;Turning+Ideas+Into+Software" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=260&section=header&text=Abdul%20Wasay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Wasay+%F0%9F%91%8B;Data+Science+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Turning+Ideas+Into+Real-World+Software;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=theabdulwasay&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<a href="https://abdul-wasay-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=theabdulwasay&label=Profile%20Views&color=6A11CB&style=for-the-badge" alt="Profile Views"/>
+<a href="https://abdul-wasay-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge&logo=handshake&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%"/>
 
 </div>
 
 <br/>
 
-## 💫 About Me
+## 🧑‍💻 About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=theabdulwasay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380"/>
 
 ```yaml
 name: Abdul Wasay
 education: BS Computer Science Graduate
-location: Wah Cantt, Punjab, Pakistan
-focus: Data Science · Machine Learning · Full-Stack Development
-currently_seeking: Opportunities in Data Science & AI
-fun_fact: I love transforming ideas into real-world software solutions
+location: Wah Cantt, Punjab, Pakistan 🇵🇰
+focus:
+  - Data Science
+  - Machine Learning
+  - Full-Stack Development
+currently_seeking: "Opportunities in Data Science & AI"
+fun_fact: "I love transforming ideas into real-world software solutions"
+motto: "The best way to predict the future is to create it."
 ```
 
-<br/>
+- 🔭 Currently building **AI-powered** and **data-driven** platforms
+- 🌱 Deep-diving into **Deep Learning**, **Power BI**, and **Azure Data Services**
+- 👯 Looking to collaborate on **ML** and **Full-Stack** projects
+- 💬 Ask me about **Python, React, Data Analytics, or ML pipelines**
+- ⚡ Fun fact: I debug faster with coffee ☕ in hand
+
+<br clear="both"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🌐 Connect With Me
 
@@ -35,40 +56,56 @@ fun_fact: I love transforming ideas into real-world software solutions
 <a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🚀 Tech Stack
+## 🚀 Tech Arsenal
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **💻 Languages**
-<p><img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,r"/></p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,r"/>
 
 **🌐 Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/></p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
 
 **⚙️ Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/></p>
 
-</td>
-<td valign="top" width="50%">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
 
 **🗄️ Databases**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis"/></p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis"/>
 
 **🤖 Data Science & AI**
-<p><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch"/></p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch"/>
 
 **🛠️ Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,linux,vscode"/></p>
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,linux,vscode,azure,aws"/>
+
+</div>
 
 <br/>
+
+### 📊 Proficiency
+
+<div align="center">
+
+| Skill | Level |
+|---|---|
+| 🐍 Python | ![](https://progress-bar.dev/95/?color=0A66C2) |
+| ⚛️ React.js | ![](https://progress-bar.dev/85/?color=61DAFB) |
+| 🤖 Machine Learning | ![](https://progress-bar.dev/80/?color=FF6F00) |
+| 📊 SQL & Power BI | ![](https://progress-bar.dev/85/?color=F2C811) |
+| 🌐 Django / FastAPI | ![](https://progress-bar.dev/80/?color=092E20) |
+| ☁️ Docker & Cloud | ![](https://progress-bar.dev/70/?color=2496ED) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -163,9 +200,11 @@ AI-powered vehicle service management platform for multiple branches.
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 📜 Certifications
+
+<div align="center">
 
 | Certification | Provider |
 |---|---|
@@ -178,35 +217,39 @@ AI-powered vehicle service management platform for multiple branches.
 | 🏅 English for IT | Cisco Networking Academy |
 | 🏅 Introduction to IoT | Cisco Networking Academy |
 
-<br/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🌱 Currently Learning & Exploring
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data_Engineering-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine_Learning-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Azure_Data_Services-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Optimization-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker_%26_Cloud-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Apache_Spark-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Warehousing-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Engineering-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_Data_Services-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Optimization-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker_%26_Cloud-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Spark-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Warehousing-2575FC?style=for-the-badge"/>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🎯 2026 Goals
+## 🎯 2026 Roadmap
 
-- 🚀 Become a Data Scientist
-- ☁️ Learn Azure & AWS
-- 📊 Master Power BI
-- 🤖 Build AI Applications
-- 🌐 Contribute to Open Source
-- 💼 Land a Data Science Role
+```mermaid
+timeline
+    title Abdul Wasay's 2026 Goals
+    Q1 : Master Power BI : Learn Azure Fundamentals
+    Q2 : Build 2 AI Applications : Contribute to Open Source
+    Q3 : Learn AWS : Advance Deep Learning Skills
+    Q4 : Land a Data Science Role : Publish ML Portfolio Projects
+```
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 💼 Open to Opportunities
 
@@ -219,9 +262,11 @@ AI-powered vehicle service management platform for multiple branches.
 <img src="https://img.shields.io/badge/Full--Stack_Development-success?style=for-the-badge"/>
 </p>
 
-I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analytics Projects**, **AI & ML**, **Open Source**, **Hackathons**, and **Startup Ideas**. Feel free to reach out!
+<p align="center">
+I'm always excited to collaborate on <b>Full-Stack Web Apps</b>, <b>Data Analytics Projects</b>, <b>AI & ML</b>, <b>Open Source</b>, <b>Hackathons</b>, and <b>Startup Ideas</b>. Let's build something great together!
+</p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -242,6 +287,14 @@ I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analyt
 <img src="https://github-profile-trophy.vercel.app/?username=theabdulwasay&theme=tokyonight&row=2&column=4"/>
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/theabdulwasay/theabdulwasay/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation"/>
+</p>
+
+> 💡 The snake animation above animates itself automatically once you add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to this repo — it "eats" your contribution graph every day.
+
 <details>
 <summary>📈 More Coding Activity & Stats</summary>
 <br/>
@@ -258,12 +311,18 @@ I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analyt
 </p>
 </details>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 💡 Favorite Quote
 
+<div align="center">
+
 > **"The best way to predict the future is to create it."**
 > — *Peter Drucker*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 <br/>
 
@@ -273,8 +332,10 @@ I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analyt
 
 **⭐ If you like my work, consider following me and starring my repositories.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;See+You+Again!+%F0%9F%91%8B"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;See+You+Again!+%F0%9F%91%8B" alt="Footer Typing SVG"/>
 
 *Made with ❤️ by **Abdul Wasay***
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:0A66C2&height=120&section=footer" width="100%"/>
 
 </div>
