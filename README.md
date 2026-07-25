@@ -1,130 +1,85 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdul Wasay
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdul+Wasay;Data+Science+%26+ML+Enthusiast;Full-Stack+Developer;Turning+Ideas+Into+Software" alt="Typing SVG" />
 
----
+<br/>
 
-# 💫 About Me
+<img src="https://komarev.com/ghpvc/?username=theabdulwasay&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<a href="https://abdul-wasay-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-🎓 BS Computer Science Graduate
+</div>
 
-📍 Wah Cantt, Punjab, Pakistan
+<br/>
 
-⚡ Fun Fact: I love transforming ideas into real-world software solutions.
+## 💫 About Me
 
----
+```yaml
+name: Abdul Wasay
+education: BS Computer Science Graduate
+location: Wah Cantt, Punjab, Pakistan
+focus: Data Science · Machine Learning · Full-Stack Development
+currently_seeking: Opportunities in Data Science & AI
+fun_fact: I love transforming ideas into real-world software solutions
+```
 
-# 🌐 Connect With Me
+<br/>
 
-<p align="center">
-
-<a href="https://github.com/theabdulwasay">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abdul-wasay757">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/share/1HAZHQTpV5/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="https://www.instagram.com/callme.wasayeee">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:abdulwasaymalik757@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,r"/>
-
-</p>
-
----
-
-## 🌐 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
-
-</p>
-
----
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis"/>
-
-</p>
-
----
-
-## 🤖 Data Science & AI
-
-<p>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,linux,vscode"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
+## 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=theabdulwasay&theme=tokyonight&row=2&column=4"/>
-
+<a href="https://github.com/theabdulwasay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdul-wasay757"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/share/1HAZHQTpV5/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/callme.wasayeee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-# 🚀 Featured Projects
+<br/>
+
+## 🚀 Tech Stack
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
+
+**💻 Languages**
+<p><img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,r"/></p>
+
+**🌐 Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/></p>
+
+**⚙️ Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/></p>
+
+</td>
+<td valign="top" width="50%">
+
+**🗄️ Databases**
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis"/></p>
+
+**🤖 Data Science & AI**
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch"/></p>
+
+**🛠️ Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,linux,vscode"/></p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚗 AutoFix
 **Intelligent Multi-Branch Vehicle Service Hub**
 
 AI-powered vehicle service management platform for multiple branches.
-
-✨ Features
 
 - 🤖 AI Maintenance Prediction
 - 📅 Online Service Booking
@@ -133,21 +88,13 @@ AI-powered vehicle service management platform for multiple branches.
 - 🔐 JWT Authentication
 - 👨‍🔧 Admin & Staff Portal
 
-**Tech Stack**
-
-`React` `Django REST` `FastAPI`
-`PostgreSQL` `Docker`
-`Python` `JWT`
+`React` `Django REST` `FastAPI` `PostgreSQL` `Docker` `Python` `JWT`
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 StoreCast
-
-Retail Analytics & Inventory Forecasting Platform
-
-✨ Features
+**Retail Analytics & Inventory Forecasting Platform**
 
 - 📈 Sales Analytics
 - 🤖 ML Forecasting
@@ -155,27 +102,15 @@ Retail Analytics & Inventory Forecasting Platform
 - 📦 Inventory Prediction
 - 📉 Trend Analysis
 
-**Tech Stack**
-
-`Python`
-`Pandas`
-`Scikit-learn`
-`React`
-`FastAPI`
+`Python` `Pandas` `Scikit-learn` `React` `FastAPI`
 
 </td>
-
 </tr>
-
 <tr>
-
-<td>
+<td width="50%" valign="top">
 
 ### 🏢 Smart Mini ERP
-
-Complete ERP Solution
-
-✨ Modules
+**Complete ERP Solution**
 
 - 📦 Inventory
 - 💳 POS
@@ -183,305 +118,163 @@ Complete ERP Solution
 - 💰 Finance
 - 📊 Reports
 
-**Tech**
-
-`React`
-`Flask`
-`SQLite`
-`Chart.js`
+`React` `Flask` `SQLite` `Chart.js`
 
 </td>
-
-<td>
+<td width="50%" valign="top">
 
 ### 📋 TeamFlow
-
-Collaborative Task Manager
-
-✨ Features
+**Collaborative Task Manager**
 
 - 📌 Kanban Boards
 - 👨‍💻 Team Management
 - 📅 Deadlines
 - 📈 Productivity Dashboard
 
-**Tech**
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td>
+### 🛡️ CyberShield
+**Cyber Security Analysis Platform**
 
-### 🛡 CyberShield
-
-Cyber Security Analysis Platform
-
-✨ Modules
-
-- Password Analyzer
-- Malware Scanner
-- Phishing Detector
-- Port Scanner
-- Email Header Analyzer
+- 🔑 Password Analyzer
+- 🦠 Malware Scanner
+- 🎣 Phishing Detector
+- 🔌 Port Scanner
+- 📧 Email Header Analyzer
 
 </td>
-
-<td>
+<td width="50%" valign="top">
 
 ### 🌍 Wah Tour
+**Tourism Platform for Wah Cantt**
 
-Tourism Platform for Wah Cantt
-
-✨ Features
-
-- 🗺 Interactive Maps
+- 🗺️ Interactive Maps
 - 🍔 Restaurants
-- 🏛 Historical Places
+- 🏛️ Historical Places
 - 🏨 Hotels
 - 📸 Tourist Attractions
 
 </td>
-
 </tr>
-
 </table>
 
----
+<br/>
 
-# 📜 Certifications
+## 📜 Certifications
 
-🏅 IBM Python for Data Science
+| Certification | Provider |
+|---|---|
+| 🏅 Python for Data Science | IBM |
+| 🏅 Business Intelligence Professional Certificate | Google |
+| 🏅 Web Scraping with Python | Duke University |
+| 🏅 GenAI Data Analytics Job Simulation | Tata Group |
+| 🏅 Introduction to Data Science | Cisco Networking Academy |
+| 🏅 HTML Essentials | Cisco Networking Academy |
+| 🏅 English for IT | Cisco Networking Academy |
+| 🏅 Introduction to IoT | Cisco Networking Academy |
 
-🏅 Google Business Intelligence Professional Certificate
+<br/>
 
-🏅 Duke University — Web Scraping with Python
+## 🌱 Currently Learning & Exploring
 
-🏅 Cisco Networking Academy
+<p align="center">
+<img src="https://img.shields.io/badge/Data_Engineering-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Azure_Data_Services-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL_Optimization-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker_%26_Cloud-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Apache_Spark-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Warehousing-black?style=flat-square"/>
+</p>
 
-- Introduction to Data Science
-- HTML Essentials
-- English for IT
-- Introduction to IoT
+<br/>
 
-🏅 Tata Group GenAI Data Analytics Job Simulation
-
----
-
-# 🌱 Currently Learning
-
-✅ Data Engineering
-
-✅ Machine Learning
-
-✅ Deep Learning
-
-✅ Business Intelligence
-
-✅ Power BI
-
-✅ Azure Data Services
-
-✅ SQL Optimization
-
-✅ Docker & Cloud Deployment
-
----
-
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - 🚀 Become a Data Scientist
-
-- ☁ Learn Azure & AWS
-
+- ☁️ Learn Azure & AWS
 - 📊 Master Power BI
-
 - 🤖 Build AI Applications
-
 - 🌐 Contribute to Open Source
-
 - 💼 Land a Data Science Role
 
----
+<br/>
 
-# 📊 GitHub Statistics
+## 💼 Open to Opportunities
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=theabdulwasay&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabdulwasay&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://img.shields.io/badge/Data_Science-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python_Development-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack_Development-success?style=for-the-badge"/>
 </p>
 
----
+I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analytics Projects**, **AI & ML**, **Open Source**, **Hackathons**, and **Startup Ideas**. Feel free to reach out!
 
-# 🔥 GitHub Streak
+<br/>
+
+## 📊 GitHub Analytics
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theabdulwasay&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabdulwasay&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=theabdulwasay&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theabdulwasay&theme=tokyo-night"/>
-
 </p>
 
----
-# 🌟 What I Do
-
-<div align="center">
-
-| 💻 Full-Stack Development | 📊 Data Analytics | 🤖 Machine Learning |
-|:-------------------------:|:-----------------:|:-------------------:|
-| React • Django • Flask • FastAPI | SQL • Power BI • Python | Scikit-learn • Pandas • NumPy |
-
-</div>
-
----
-
-# 📚 Currently Exploring
-
-- ☁️ Microsoft Azure
-- 🐳 Docker & Containerization
-- 📊 Advanced Power BI
-- 🧠 Deep Learning
-- 🤖 Generative AI
-- 📈 Data Engineering
-- ⚡ Apache Spark
-- 🗄️ Data Warehousing
-
----
-
-# 💼 Open to Opportunities
-
-I'm actively looking for opportunities in:
-
-✅ Data Science
-
-✅ Machine Learning
-
-✅ Data Analytics
-
-✅ Business Intelligence
-
-✅ Python Development
-
-✅ Full-Stack Development
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-- 🌐 Full-Stack Web Applications
-- 📊 Data Analytics Projects
-- 🤖 AI & Machine Learning
-- 📱 Open Source Projects
-- 🏆 Hackathons
-- 🚀 Innovative Startup Ideas
-
----
-
-# 📫 Contact Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge)](https://abdul-wasay-portfolio-one.vercel.app/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-theabdulwasay-181717?style=for-the-badge&logo=github)](https://github.com/theabdulwasay)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Wasay-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-wasay757)
-
-[![Email](https://img.shields.io/badge/Gmail-abdulwasaymalik757@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:abdulwasaymalik757@gmail.com)
-
-</div>
-
----
-
-# 📈 Coding Activity
-
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=theabdulwasay&theme=tokyonight&row=2&column=4"/>
+</p>
 
+<details>
+<summary>📈 More Coding Activity & Stats</summary>
+<br/>
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabdulwasay&theme=tokyonight"/>
-
 </p>
-
----
-
-# 🏅 GitHub Summary
-
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theabdulwasay&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theabdulwasay&theme=tokyonight"/>
-
 </p>
-
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theabdulwasay&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabdulwasay&theme=tokyonight&utcOffset=5"/>
-
 </p>
+</details>
 
----
+<br/>
 
-# 💡 Favorite Quote
+## 💡 Favorite Quote
 
-> **"The best way to predict the future is to create it."**  
+> **"The best way to predict the future is to create it."**
 > — *Peter Drucker*
 
----
-
-# ☕ Fun Facts
-
-- 💙 I enjoy solving real-world problems using technology.
-- 📊 I love working with data and transforming it into insights.
-- 🌍 I enjoy building projects that make life easier.
-- 🚀 I believe continuous learning is the key to success.
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=theabdulwasay&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
+<br/>
 
 <div align="center">
 
-## 🚀 Thanks for Visiting My Profile!
+### 🚀 Thanks for Visiting My Profile!
 
-### ⭐ If you like my work, consider following me and starring my repositories.
+**⭐ If you like my work, consider following me and starring my repositories.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Thank+You+for+Visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;See+You+Again!+👋"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;See+You+Again!+%F0%9F%91%8B"/>
 
----
-
-### Made with ❤️ by **Abdul Wasay**
+*Made with ❤️ by **Abdul Wasay***
 
 </div>
