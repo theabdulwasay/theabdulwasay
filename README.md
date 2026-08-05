@@ -1,38 +1,46 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=260&section=header&text=Abdul%20Wasay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Wasay+%F0%9F%91%8B;Data+Science+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Turning+Ideas+Into+Real-World+Software;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/> <br/> <img src="https://komarev.com/ghpvc/?username=theabdulwasay&label=Profile%20Views&color=6A11CB&style=for-the-badge" alt="Profile Views"/> <a href="https://abdul-wasay-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=220&section=header&text=Abdul%20Wasay&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Wasay+%F0%9F%91%8B;Data+Science+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Turning+Ideas+Into+Real-World+Software" alt="Typing SVG"/>
 
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=theabdulwasay&label=Profile%20Views&color=6A11CB&style=for-the-badge" alt="Profile Views"/>
+<a href="https://abdul-wasay-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+</div>
 
-
-
-
+<br/>
 
 ## 💫 About Me
 
-
-
 ```yaml
-name: Abdul Wasay
-education: BS Computer Science Graduate
-location: Wah Cantt, Punjab, Pakistan
-focus: Data Science · Machine Learning · Full-Stack Development
+name:              Abdul Wasay
+education:         BS Computer Science
+location:          Wah Cantt, Punjab, Pakistan
+focus:             Data Science · Machine Learning · Full-Stack Development
 currently_seeking: Opportunities in Data Science & AI
-fun_fact: I love transforming ideas into real-world software solutions
+fun_fact:          I love turning ideas into real-world software solutions
 ```
+
+I'm a Computer Science graduate who enjoys building end-to-end products — from training a model to shipping the interface that puts it in front of users. My work sits at the intersection of data science and full-stack engineering, and I'm actively looking for roles where I can apply both.
 
 <br/>
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://github.com/theabdulwasay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abdul-wasay757"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/share/1HAZHQTpV5/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/callme.wasayeee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theabdulwasay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay757)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://abdul-wasay-portfolio-one.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulwasaymalik757@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/callme.wasayeee)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HAZHQTpV5/)
+
+</div>
 
 <br/>
 
@@ -43,25 +51,31 @@ fun_fact: I love transforming ideas into real-world software solutions
 <td valign="top" width="50%">
 
 **💻 Languages**
-<p><img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,r"/></p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,r"/>
 
 **🌐 Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/></p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
 
 **⚙️ Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/></p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
 
 </td>
 <td valign="top" width="50%">
 
 **🗄️ Databases**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis"/></p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis"/>
 
 **🤖 Data Science & AI**
-<p><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch"/></p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,tensorflow,pytorch"/>
 
 **🛠️ Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,linux,vscode"/></p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,linux,vscode"/>
 
 </td>
 </tr>
@@ -69,7 +83,7 @@ fun_fact: I love transforming ideas into real-world software solutions
 
 <br/>
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
 
 <table>
 <tr>
@@ -78,14 +92,14 @@ fun_fact: I love transforming ideas into real-world software solutions
 ### 🚗 AutoFix
 **Intelligent Multi-Branch Vehicle Service Hub**
 
-AI-powered vehicle service management platform for multiple branches.
+An AI-powered platform for managing vehicle service operations across multiple branches.
 
-- 🤖 AI Maintenance Prediction
-- 📅 Online Service Booking
-- 📦 Inventory Management
-- 📊 Analytics Dashboard
-- 🔐 JWT Authentication
-- 👨‍🔧 Admin & Staff Portal
+- 🤖 AI-driven maintenance prediction
+- 📅 Online service booking
+- 📦 Inventory management
+- 📊 Analytics dashboard
+- 🔐 JWT authentication
+- 👨‍🔧 Admin & staff portal
 
 `React` `Django REST` `FastAPI` `PostgreSQL` `Docker` `Python` `JWT`
 
@@ -95,11 +109,13 @@ AI-powered vehicle service management platform for multiple branches.
 ### 📊 StoreCast
 **Retail Analytics & Inventory Forecasting Platform**
 
-- 📈 Sales Analytics
-- 🤖 ML Forecasting
-- 📊 Business Dashboard
-- 📦 Inventory Prediction
-- 📉 Trend Analysis
+Forecasting and analytics tooling to help retailers plan inventory with data.
+
+- 📈 Sales analytics
+- 🤖 ML-based demand forecasting
+- 📊 Business dashboard
+- 📦 Inventory prediction
+- 📉 Trend analysis
 
 `Python` `Pandas` `Scikit-learn` `React` `FastAPI`
 
@@ -111,11 +127,13 @@ AI-powered vehicle service management platform for multiple branches.
 ### 🏢 Smart Mini ERP
 **Complete ERP Solution**
 
-- 📦 Inventory
-- 💳 POS
+A lightweight ERP covering the core operational needs of a small business.
+
+- 📦 Inventory management
+- 💳 Point of sale (POS)
 - 👥 CRM
-- 💰 Finance
-- 📊 Reports
+- 💰 Finance tracking
+- 📊 Reporting
 
 `React` `Flask` `SQLite` `Chart.js`
 
@@ -125,10 +143,12 @@ AI-powered vehicle service management platform for multiple branches.
 ### 📋 TeamFlow
 **Collaborative Task Manager**
 
-- 📌 Kanban Boards
-- 👨‍💻 Team Management
-- 📅 Deadlines
-- 📈 Productivity Dashboard
+A Kanban-style task manager built for team collaboration and delivery tracking.
+
+- 📌 Kanban boards
+- 👨‍💻 Team management
+- 📅 Deadline tracking
+- 📈 Productivity dashboard
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -138,13 +158,15 @@ AI-powered vehicle service management platform for multiple branches.
 <td width="50%" valign="top">
 
 ### 🛡️ CyberShield
-**Cyber Security Analysis Platform**
+**Cybersecurity Analysis Platform**
 
-- 🔑 Password Analyzer
-- 🦠 Malware Scanner
-- 🎣 Phishing Detector
-- 🔌 Port Scanner
-- 📧 Email Header Analyzer
+A toolkit for everyday security checks and threat awareness.
+
+- 🔑 Password strength analyzer
+- 🦠 Malware scanner
+- 🎣 Phishing detector
+- 🔌 Port scanner
+- 📧 Email header analyzer
 
 </td>
 <td width="50%" valign="top">
@@ -152,11 +174,13 @@ AI-powered vehicle service management platform for multiple branches.
 ### 🌍 Wah Tour
 **Tourism Platform for Wah Cantt**
 
-- 🗺️ Interactive Maps
+A guide to exploring Wah Cantt, built around an interactive map experience.
+
+- 🗺️ Interactive maps
 - 🍔 Restaurants
-- 🏛️ Historical Places
+- 🏛️ Historical places
 - 🏨 Hotels
-- 📸 Tourist Attractions
+- 📸 Tourist attractions
 
 </td>
 </tr>
@@ -181,44 +205,48 @@ AI-powered vehicle service management platform for multiple branches.
 
 ## 🌱 Currently Learning & Exploring
 
-<p align="center">
-<img src="https://img.shields.io/badge/Data_Engineering-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine_Learning-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Azure_Data_Services-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Optimization-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker_%26_Cloud-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Apache_Spark-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Warehousing-black?style=flat-square"/>
-</p>
+<div align="center">
+
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-black?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-black?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-black?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-black?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-black?style=flat-square)
+![Azure Data Services](https://img.shields.io/badge/Azure_Data_Services-black?style=flat-square)
+![SQL Optimization](https://img.shields.io/badge/SQL_Optimization-black?style=flat-square)
+![Docker & Cloud](https://img.shields.io/badge/Docker_%26_Cloud-black?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-black?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-black?style=flat-square)
+
+</div>
 
 <br/>
 
-## 🎯 2026 Goals
+## 🎯 Goals for 2026
 
-- 🚀 Become a Data Scientist
-- ☁️ Learn Azure & AWS
+- 🚀 Land a role as a Data Scientist
+- ☁️ Deepen my skills in Azure & AWS
 - 📊 Master Power BI
-- 🤖 Build AI Applications
-- 🌐 Contribute to Open Source
-- 💼 Land a Data Science Role
+- 🤖 Ship more production-ready AI applications
+- 🌐 Contribute to open source
+- 💼 Keep building in public
 
 <br/>
 
 ## 💼 Open to Opportunities
 
-<p align="center">
-<img src="https://img.shields.io/badge/Data_Science-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analytics-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python_Development-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack_Development-success?style=for-the-badge"/>
-</p>
+<div align="center">
 
-I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analytics Projects**, **AI & ML**, **Open Source**, **Hackathons**, and **Startup Ideas**. Feel free to reach out!
+![Data Science](https://img.shields.io/badge/Data_Science-success?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-success?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-success?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-success?style=for-the-badge)
+![Python Development](https://img.shields.io/badge/Python_Development-success?style=for-the-badge)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-success?style=for-the-badge)
+
+</div>
+
+I'm always interested in collaborating on **full-stack web apps**, **data analytics projects**, **AI & ML**, **open source**, **hackathons**, and **startup ideas**. Feel free to reach out!
 
 <br/>
 
@@ -242,7 +270,7 @@ I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analyt
 </p>
 
 <details>
-<summary>📈 More Coding Activity & Stats</summary>
+<summary>📈 More coding activity & stats</summary>
 <br/>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabdulwasay&theme=tokyonight"/>
@@ -272,7 +300,7 @@ I'm always interested in collaborating on **Full-Stack Web Apps**, **Data Analyt
 
 **⭐ If you like my work, consider following me and starring my repositories.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;See+You+Again!+%F0%9F%91%8B"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Happy+Coding!;Let's+Build+Amazing+Things+Together!;See+You+Again!+%F0%9F%91%8B"/>
 
 *Made with ❤️ by **Abdul Wasay***
 
