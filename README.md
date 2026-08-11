@@ -10,6 +10,15 @@
 <a href="https://abdul-wasay-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:abdulwasaymalik757@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-certifications">Certifications</a> •
+<a href="#-whats-next">What's Next</a> •
+<a href="#-github-analytics">Analytics</a>
+
 </div>
 
 <br/>
@@ -25,7 +34,10 @@ currently_seeking: Opportunities in Data Science & AI
 fun_fact:          I love turning ideas into real-world software solutions
 ```
 
-I'm a Computer Science graduate who enjoys building end-to-end products — from training a model to shipping the interface that puts it in front of users. My work sits at the intersection of data science and full-stack engineering, and I'm actively looking for roles where I can apply both.
+I'm a Computer Science graduate who enjoys building end-to-end products — from
+training a model to shipping the interface that puts it in front of users. My
+work sits at the intersection of **data science** and **full-stack
+engineering**, and I'm actively looking for roles where I can apply both.
 
 <br/>
 
@@ -92,7 +104,8 @@ I'm a Computer Science graduate who enjoys building end-to-end products — from
 ### 🚗 AutoFix
 **Intelligent Multi-Branch Vehicle Service Hub**
 
-An AI-powered platform for managing vehicle service operations across multiple branches.
+An AI-powered platform for managing vehicle service operations across
+multiple branches.
 
 - 🤖 AI-driven maintenance prediction
 - 📅 Online service booking
@@ -101,7 +114,7 @@ An AI-powered platform for managing vehicle service operations across multiple b
 - 🔐 JWT authentication
 - 👨‍🔧 Admin & staff portal
 
-`React` `Django REST` `FastAPI` `PostgreSQL` `Docker` `Python` `JWT`
+<sub>`React` `Django REST` `FastAPI` `PostgreSQL` `Docker` `Python` `JWT`</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -109,7 +122,8 @@ An AI-powered platform for managing vehicle service operations across multiple b
 ### 📊 StoreCast
 **Retail Analytics & Inventory Forecasting Platform**
 
-Forecasting and analytics tooling to help retailers plan inventory with data.
+Forecasting and analytics tooling that helps retailers plan inventory with
+data instead of guesswork.
 
 - 📈 Sales analytics
 - 🤖 ML-based demand forecasting
@@ -117,7 +131,7 @@ Forecasting and analytics tooling to help retailers plan inventory with data.
 - 📦 Inventory prediction
 - 📉 Trend analysis
 
-`Python` `Pandas` `Scikit-learn` `React` `FastAPI`
+<sub>`Python` `Pandas` `Scikit-learn` `React` `FastAPI`</sub>
 
 </td>
 </tr>
@@ -135,7 +149,7 @@ A lightweight ERP covering the core operational needs of a small business.
 - 💰 Finance tracking
 - 📊 Reporting
 
-`React` `Flask` `SQLite` `Chart.js`
+<sub>`React` `Flask` `SQLite` `Chart.js`</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -143,14 +157,15 @@ A lightweight ERP covering the core operational needs of a small business.
 ### 📋 TeamFlow
 **Collaborative Task Manager**
 
-A Kanban-style task manager built for team collaboration and delivery tracking.
+A Kanban-style task manager built for team collaboration and delivery
+tracking.
 
 - 📌 Kanban boards
 - 👨‍💻 Team management
 - 📅 Deadline tracking
 - 📈 Productivity dashboard
 
-`React` `Node.js` `Express` `MongoDB`
+<sub>`React` `Node.js` `Express` `MongoDB`</sub>
 
 </td>
 </tr>
@@ -186,12 +201,18 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 </tr>
 </table>
 
+<div align="center">
+
+<sub>🔗 More projects and live demos on my <a href="https://abdul-wasay-portfolio-one.vercel.app/">portfolio</a> and <a href="https://github.com/theabdulwasay?tab=repositories">GitHub repositories</a>.</sub>
+
+</div>
+
 <br/>
 
 ## 📜 Certifications
 
 | Certification | Provider |
-|---|---|
+|:---|:---|
 | 🏅 Python for Data Science | IBM |
 | 🏅 Business Intelligence Professional Certificate | Google |
 | 🏅 Web Scraping with Python | Duke University |
@@ -203,14 +224,17 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 
 <br/>
 
-## 🌱 Currently Learning & Exploring
+## 🎯 What's Next
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="55%">
+
+**Currently learning & exploring**
 
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-black?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-black?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-black?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-black?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-black?style=flat-square)
 ![Azure Data Services](https://img.shields.io/badge/Azure_Data_Services-black?style=flat-square)
 ![SQL Optimization](https://img.shields.io/badge/SQL_Optimization-black?style=flat-square)
@@ -218,11 +242,10 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-black?style=flat-square)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-black?style=flat-square)
 
-</div>
+</td>
+<td valign="top" width="45%">
 
-<br/>
-
-## 🎯 Goals for 2026
+**Goals for 2026**
 
 - 🚀 Land a role as a Data Scientist
 - ☁️ Deepen my skills in Azure & AWS
@@ -230,6 +253,10 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 - 🤖 Ship more production-ready AI applications
 - 🌐 Contribute to open source
 - 💼 Keep building in public
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -246,7 +273,9 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 
 </div>
 
-I'm always interested in collaborating on **full-stack web apps**, **data analytics projects**, **AI & ML**, **open source**, **hackathons**, and **startup ideas**. Feel free to reach out!
+I'm always interested in collaborating on **full-stack web apps**, **data
+analytics projects**, **AI & ML**, **open source**, **hackathons**, and
+**startup ideas**. Feel free to reach out!
 
 <br/>
 
