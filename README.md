@@ -209,10 +209,7 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 
 <br/>
 
-## 📜 Certifications
 
-| Certification | Provider |
-|:---|:---|
 ## 📜 Certifications
 
 | Certification | Provider |
