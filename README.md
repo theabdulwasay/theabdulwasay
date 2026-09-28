@@ -1,4 +1,4 @@
-t<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=220&section=header&text=Abdul%20Wasay&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
