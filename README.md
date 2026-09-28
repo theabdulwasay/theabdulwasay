@@ -1,4 +1,4 @@
-<div align="center">
+t<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=220&section=header&text=Abdul%20Wasay&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
@@ -213,14 +213,26 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 
 | Certification | Provider |
 |:---|:---|
-| 🏅 Python for Data Science | IBM |
-| 🏅 Business Intelligence Professional Certificate | Google |
+## 📜 Certifications
+
+| Certification | Provider |
+|:---|:---|
+| 🏅 Certified Ethical Hacker (CEH) - International Certification | EC-Council |
+| 🏅 Google AI Professional Certificate | Google |
+| 🏅 Meta Back-End Developer Professional Certificate | Meta |
+| 🏅 Google Project Management Professional Certificate | Google |
+| 🏅 Google Business Intelligence Professional Certificate | Google |
+| 🏅 Generative AI Application Developer Certificate | ULEFUSA |
+| 🏅 AI Essentials | Saïd Business School, University of Oxford |
+| 🏅 Python for Data Science, AI & Development | IBM |
+| 🏅 UI/UX Design Principles | Microsoft |
+| 🏅 Django Web Framework | Meta |
 | 🏅 Web Scraping with Python | Duke University |
-| 🏅 GenAI Data Analytics Job Simulation | Tata Group |
 | 🏅 Introduction to Data Science | Cisco Networking Academy |
-| 🏅 HTML Essentials | Cisco Networking Academy |
-| 🏅 English for IT | Cisco Networking Academy |
-| 🏅 Introduction to IoT | Cisco Networking Academy |
+| 🏅 Fundamentals of Business Analysis | Coursera |
+| 🏅 GenAI Powered Data Analytics Job Simulation | Tata Group / Forage |
+| 🏅 Data Science Job Simulation | British Airways / Forage |
+| 🏅 Front-End Software Engineering Job Simulation | Skyscanner / Forage |
 
 <br/>
 
@@ -236,10 +248,8 @@ A guide to exploring Wah Cantt, built around an interactive map experience.
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-black?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-black?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-black?style=flat-square)
-![Azure Data Services](https://img.shields.io/badge/Azure_Data_Services-black?style=flat-square)
 ![SQL Optimization](https://img.shields.io/badge/SQL_Optimization-black?style=flat-square)
 ![Docker & Cloud](https://img.shields.io/badge/Docker_%26_Cloud-black?style=flat-square)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-black?style=flat-square)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-black?style=flat-square)
 
 </td>
