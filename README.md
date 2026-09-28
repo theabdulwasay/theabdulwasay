@@ -72,7 +72,7 @@ engineering**, and I'm actively looking for roles where I can apply both.
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi"/>
 
 </td>
 <td valign="top" width="50%">
